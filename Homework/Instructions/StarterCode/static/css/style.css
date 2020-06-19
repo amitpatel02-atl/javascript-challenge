@@ -97,7 +97,6 @@ select {
   height: 550px;
   padding: 5px;
   margin: 2;
-  background: black;
   background-image: url("../images/alien.jpg");
   background-attachment: fixed;
   background-position: bottom center;
